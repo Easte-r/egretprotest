@@ -1,0 +1,25 @@
+{
+	"groups": [],
+	"resources": [
+		{
+			"url": "Assets/materials/logo.mat.json",
+			"type": "Material",
+			"name": "Assets/materials/logo.mat.json"
+		},
+		{
+			"url": "Assets/scenes/newScene.scene.json",
+			"type": "Scene",
+			"name": "Assets/scenes/newScene.scene.json"
+		},
+		{
+			"url": "Assets/textures/logo.image.json",
+			"type": "TextureDesc",
+			"name": "Assets/textures/logo.image.json"
+		},
+		{
+			"url": "Assets/textures/logo.png",
+			"type": "Texture",
+			"name": "Assets/textures/logo.png"
+		}
+	]
+}
